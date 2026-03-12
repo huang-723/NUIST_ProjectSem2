@@ -1,1 +1,2 @@
 Lab04: Initial content for remote collaboration practice
+Lab04: Collaborative update from cloned repository
